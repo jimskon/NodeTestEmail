@@ -1,0 +1,11 @@
+{
+    "name": "TestMail",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "skon",
+    "contributors": [],
+    "dependencies": {
+        "nodemailer": "0.7.1",
+        "nodemailer-smtp-transport":"~1.0.3"
+    }
+}
